@@ -1,0 +1,1 @@
+masukkan foto didalam folder yang sudah dinamai dengan nama pemilik wajah
